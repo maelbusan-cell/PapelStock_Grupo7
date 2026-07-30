@@ -3,9 +3,9 @@
 **Proyecto:** Sistema de Inventario Simple para una Papelería
 **Grupo:** 7
 **Integrantes:**
-- [Nombre1] — SRS y repositorio
-- [Nombre2] — Diagramas UML
-- [Nombre3] — Prototipo Figma
+- Mayra Buñay — SRS y repositorio
+- Rodolfo Jhayya— Diagramas UML
+- Ruben Noboa— Prototipo Figma
 
 ## Descripción
 PapelStock permite registrar artículos, registrar ventas con descuento automático de stock y alertar cuando un artículo alcanza su stock mínimo. Actores: vendedor y administrador.
@@ -19,6 +19,6 @@ PapelStock permite registrar artículos, registrar ventas con descuento automát
 | RF-03 Alertar stock mínimo | Consultar stock / Alerta automática | Pantalla 3: vista con alerta de stock mínimo | feat: prototipo Figma 3 pantallas |
 
 ## Enlaces
-- **SRS:** [enlace al PDF o Google Docs]
+- **SRS:** [[enlace al PDF o Google Docs]](https://docs.google.com/document/d/1mnadtX5gkDRrXTt8f4qayC--tSHu_9dNfIU5txAVMGk/edit?usp=sharing)
 - **Prototipo Figma:** [enlace público Figma]
 - **Diagramas UML:** /uml/casos_de_uso.png y /uml/clases.png
