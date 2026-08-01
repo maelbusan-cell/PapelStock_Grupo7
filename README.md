@@ -20,7 +20,7 @@ PapelStock permite registrar artículos, registrar ventas con descuento automát
 
 ## Enlaces
 - **SRS:** [[enlace al PDF o Google Docs]](https://docs.google.com/document/d/1mnadtX5gkDRrXTt8f4qayC--tSHu_9dNfIU5txAVMGk/edit?usp=sharing)
-- **Prototipo Figma:** [enlace público Figma]
+- **Prototipo Figma:** https://www.figma.com/design/jcScQgckaK4M9fzLNupX6i/PROTOTIPO?node-id=0-1&t=Ao4hhJgcikI0iMTX-1
 - **Diagramas UML:** /uml/casos_de_uso.png y /uml/clases.png
 
 ## Diagramas UML
